@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[divnr]]></title>
         <description><![CDATA[divnr]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/divnr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 09:12:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 09:20:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/divnr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The area this concept is seeking to enhance is the connection between the consumer and the supply chain. We are expected to consume with a conscience. But, this is hard to do when the item we hold in the store is so isolated from its origins.</p>]]></description>
-            <link>undefinedthe-area-this-concept-is-seeking-to-enhance-is-the-connectio/index.html</link>
+            <link>https://thegrid.ai/divnr/the-area-this-concept-is-seeking-to-enhance-is-the-connectio/index.html</link>
             <guid isPermaLink="false">f12438e9-a712-429a-9435-896fa6a1ae43</guid>
-            <pubDate>Sun, 01 May 2016 09:12:14 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 09:20:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
